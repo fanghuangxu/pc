@@ -1,14 +1,29 @@
 {
     "download":[
-      "mian":{
-        "url":"https://fanghuangxu.github.io/pc/1.0/1.0.py",
-        "path":"1.0.py"
-      },
-      "asstes":{
-        "size":"14"
-        "path":"asstes"
-        "1":""
-      }
-      }
-      
+        {
+            "main_url":"https://fanghuangxu.github.io/pc/1.0/1.0.py",
+            "main_path":"1.0.py",
+            "size":"14",
+            "asstes_path":"asstes",
+            "1":"https://fanghuangxu.github.io/pc/1.0/assets/texture/bedrock.jpg",
+            "2":"https://fanghuangxu.github.io/pc/1.0/assets/texture/brick.png",
+            "3":"https://fanghuangxu.github.io/pc/1.0/assets/texture/cobblestone.png",
+            "4":"https://fanghuangxu.github.io/pc/1.0/assets/texture/dirt.jpg",
+            "5":"https://fanghuangxu.github.io/pc/1.0/assets/texture/endstone.jpg",
+            "6":"https://fanghuangxu.github.io/pc/1.0/assets/texture/grass.jpg",
+            "7":"https://fanghuangxu.github.io/pc/1.0/assets/texture/lapis.jpg",
+            "8":"https://fanghuangxu.github.io/pc/1.0/assets/texture/leaf.jpg",
+            "9":"https://fanghuangxu.github.io/pc/1.0/assets/texture/log.jpg",
+            "10":"https://fanghuangxu.github.io/pc/1.0/assets/texture/luckyblock.png",
+            "11":"https://fanghuangxu.github.io/pc/1.0/assets/texture/plank.jpg",
+            "12":"https://fanghuangxu.github.io/pc/1.0/assets/texture/sky.jpg",
+            "13":"https://fanghuangxu.github.io/pc/1.0/assets/texture/stone.jpg",
+            "14":"https://fanghuangxu.github.io/pc/1.0/assets/texture/tie_stone.png"
+        }
+    ],
+    "args":[
+        "--mod",
+        "--asstes"
+    ]
 }
+    
