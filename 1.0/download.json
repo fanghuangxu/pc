@@ -1,3 +1,14 @@
 {
-  
+    "download":[
+      "mian":{
+        "url":"https://fanghuangxu.github.io/pc/1.0/1.0.py",
+        "path":"1.0.py"
+      },
+      "asstes":{
+        "size":"14"
+        "path":"asstes"
+        "1":""
+      }
+      }
+      
 }
